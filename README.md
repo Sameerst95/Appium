@@ -1,0 +1,1 @@
+Appium Framework, which is basically a hybrid framework which is a mixing of more than one framework. This framework contains Keyword Driven,Modular Driven and Data driven, these kind of framework are used on this framework.
